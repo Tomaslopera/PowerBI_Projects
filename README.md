@@ -33,4 +33,4 @@ El objetivo es documentar mi aprendizaje y desarrollo en el uso de Power BI, ade
 
 ## Enlaces a Dashboards
 
-- **Proyecto 1: Ventas de videojuegos**
+- [**Proyecto 1: Ventas de videojuegos**](https://app.powerbi.com/view?r=eyJrIjoiMjM3OGI5MGEtYTM4NS00ZTRlLTlkNWItMzJiOGE2NWQ5NTJiIiwidCI6ImEyMWY0YzI3LTMzZTUtNGNhZC1hMWZmLTYxNjdiZDlmOWE0NSIsImMiOjR9)
