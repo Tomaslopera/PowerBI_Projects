@@ -1,7 +1,8 @@
 # Proyectos en Power BI
 
 En este repositorio encontrarás una colección de proyectos realizados con **Power BI**, enfocados en el análisis de datos, visualización interactiva y generación de reportes dinámicos. Cada proyecto está diseñado para resolver un problema específico de negocio o para demostrar habilidades clave en inteligencia de negocios.
-[Fuente de Ejercicios](https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/?couponCode=KEEPLEARNING)
+
+> [Curso PowerBI](https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/?couponCode=KEEPLEARNING)
 
 ---
 
