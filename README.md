@@ -35,3 +35,4 @@ El objetivo es documentar mi aprendizaje y desarrollo en el uso de Power BI, ade
 
 - [**Proyecto 1: Ventas de videojuegos**](https://app.powerbi.com/view?r=eyJrIjoiMjM3OGI5MGEtYTM4NS00ZTRlLTlkNWItMzJiOGE2NWQ5NTJiIiwidCI6ImEyMWY0YzI3LTMzZTUtNGNhZC1hMWZmLTYxNjdiZDlmOWE0NSIsImMiOjR9)
 - [**Proyecto 2: Indicadores Mundiales**](https://app.powerbi.com/view?r=eyJrIjoiNGE5MTU4OTEtNTQ4Ny00MmRlLWFmOWQtNmM2MTQ5OGFiZWYyIiwidCI6ImEyMWY0YzI3LTMzZTUtNGNhZC1hMWZmLTYxNjdiZDlmOWE0NSIsImMiOjR9)
+- [**Proyecto 3: Reporte de Recursos Humanos**](https://app.powerbi.com/view?r=eyJrIjoiMGJjOWY5M2QtYmU2OS00NDlkLTgyMzgtZWM4NjdmZjYzZDk4IiwidCI6ImEyMWY0YzI3LTMzZTUtNGNhZC1hMWZmLTYxNjdiZDlmOWE0NSIsImMiOjR9)
